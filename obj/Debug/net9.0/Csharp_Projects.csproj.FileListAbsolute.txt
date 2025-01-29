@@ -1,0 +1,14 @@
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\bin\Debug\net9.0\Csharp_Projects.exe
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\bin\Debug\net9.0\Csharp_Projects.deps.json
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\bin\Debug\net9.0\Csharp_Projects.runtimeconfig.json
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\bin\Debug\net9.0\Csharp_Projects.dll
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\bin\Debug\net9.0\Csharp_Projects.pdb
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.AssemblyInfoInputs.cache
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.AssemblyInfo.cs
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.csproj.CoreCompileInputs.cache
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.dll
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\refint\Csharp_Projects.dll
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.pdb
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.genruntimeconfig.cache
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\ref\Csharp_Projects.dll
