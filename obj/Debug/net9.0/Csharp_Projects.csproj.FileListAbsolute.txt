@@ -12,3 +12,4 @@ C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\refint\Cshar
 C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.pdb
 C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.genruntimeconfig.cache
 C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\ref\Csharp_Projects.dll
+C:\Users\canay353\Documents\GitHub\Csharp_Projects\obj\Debug\net9.0\Csharp_Projects.sourcelink.json
