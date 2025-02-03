@@ -1,25 +1,7 @@
-﻿int employeeLevel = 101;
-string employeeName = "John Smith";
-
-string title = "";
-
-switch (employeeLevel)
+﻿for (int x = 1; x <=100; x++)
 {
-    case 100 && 101:
-        title = "Junior Associate";
-        break;
-    case 200:
-        title = "Senior Associate";
-        break;
-    case 300:
-        title = "Manager";
-        break;
-    case 400:
-        title = "Senior Manager";
-        break;
-    default:
-        title = "Associate";
-        break;
+    string finalMessage = $"{x}";
+    if (x % 3 == 0) finalMessage += "Fizz";
+    if (x % 5 == 0) finalMessage += "Buzz";
+    Console.WriteLine(finalMessage);
 }
-
-Console.WriteLine($"{employeeName}, {title}");
