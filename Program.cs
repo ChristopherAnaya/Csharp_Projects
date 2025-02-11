@@ -378,11 +378,33 @@ ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
                                 }
                             }
                         } while (validEntry == false);
-                        ourAnimals[i, 3] = "Physical description: " + animalNickname;
+                        ourAnimals[i, 3] = "Nickname: " + animalNickname;
+                    }
+
+                    if (ourAnimals[i, 5] == "Personality: ")
+                    {
+                        do
+                        {
+                            Console.WriteLine($"Enter a personality description for {ourAnimals[i, 0]} (likes or dislikes, tricks, energy level)");
+                            readResult = Console.ReadLine();
+                            if (readResult != null)
+                            {
+                                animalPersonalityDescription = readResult.ToLower();
+                                if (animalPersonalityDescription != "")
+                                {
+                                    validEntry = true;
+                                }
+                                else
+                                {
+                                    validEntry = false;
+                                }
+                            }
+                        } while (validEntry == false);
+                        ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
                     }
                 }
             }
-            Console.WriteLine("Age and physical description fields are complete for all of our friends.\nPress the Enter key to continue");
+            Console.WriteLine("Nickname and personality description fields are complete for all of our friends.\nPress the Enter key to continue");
             Console.ReadLine();
             break;
 
